@@ -12,3 +12,7 @@ It also allows the user to input a letter and checks if the letter is a single a
 This script adds to the functionality of milestone_2.py.
 
 It checks if an user input is valid and whether it is within a given word
+
+## milestone_4.py
+This script creates a functioning Hangman game, however doesn't include end game criteria.
+
